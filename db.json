@@ -21,7 +21,8 @@
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "publication_date": "1925-04-10",
-      "description": "A novel about the decadence and excess of the Roaring Twenties, and the disillusionment of the American Dream."
+      "description": "A novel about the decadence and excess of the Roaring Twenties, and the disillusionment of the American Dream.",
+      "image":"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146702/the-great-gatsby-9781982146702_hr.jpg"
     },
     {
       "id": 4,
@@ -37,7 +38,7 @@
       "author": "J.D. Salinger",
       "publication_date": "1951-07-16",
       "description": "A novel about a teenage boy struggling with alienation and growing up in post-World War II America.",
-      "imag":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/800px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg"
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/800px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg"
     },
     {
       "id": 6,
