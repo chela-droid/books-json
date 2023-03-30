@@ -1,78 +1,72 @@
+[
 {
-  "books": [
-    {
-      "id": 1,
-      "title": "To Kill a Mockingbird",
-      "author": "Harper Lee",
-      "publication_date": "1960-07-11",
-      "description": "A classic novel set in the 1930s about racial injustice and the loss of innocence in a small Alabama town.",
-      "image":"https://books.google.co.ke/books/publisher/content?id=-D8WBAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U3AwaumJtl84JUpuJEBFvfIHCKKvA&w=1280"
-    },
-    {
-      "id": 2,
-      "title": "Pride and Prejudice",
-      "author": "Jane Austen",
-      "publication_date": "1813-01-28",
-      "description": "A timeless novel about the prejudices and misunderstandings between members of the landed gentry and the emerging middle class.",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/800px-PrideAndPrejudiceTitlePage.jpg"
-    },
-    {
-      "id": 3,
-      "title": "The Great Gatsby",
-      "author": "F. Scott Fitzgerald",
-      "publication_date": "1925-04-10",
-      "description": "A novel about the decadence and excess of the Roaring Twenties, and the disillusionment of the American Dream.",
-      "image":"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146702/the-great-gatsby-9781982146702_hr.jpg"
-    },
-    {
-      "id": 4,
-      "title": "1984",
-      "author": "George Orwell",
-      "publication_date": "1949-06-08",
-      "description": "A dystopian novel about a totalitarian government and its manipulation of history and information.",
-      "image":"https://books.google.co.ke/books/publisher/content?id=rIE-EAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U2vBWSxniNHMJsLjDHN9EF33BxtBA&w=1280"
-    },
-    {
-      "id": 5,
-      "title": "The Catcher in the Rye",
-      "author": "J.D. Salinger",
-      "publication_date": "1951-07-16",
-      "description": "A novel about a teenage boy struggling with alienation and growing up in post-World War II America.",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/800px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg"
-    },
-    {
-      "id": 6,
-      "title": "The Hitchhiker's Guide to the Galaxy",
-      "author": "Douglas Adams",
-      "publication_date": "1979-10-12",
-      "description": "A comedic science fiction novel about an unwitting human and his alien friend traveling through space.",
-      "image":"https://upload.wikimedia.org/wikipedia/en/b/bd/H2G2_UK_front_cover.jpg"
-    },
-    {
-      "id": 7,
-      "title": "The Lord of the Rings",
-      "author": "J.R.R. Tolkien",
-      "publication_date": "1954-07-29",
-      "description": "An epic fantasy novel about a hobbit who joins a quest to destroy a powerful ring and defeat an evil ruler.",
-      "image":"https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
-    },
-    {
-      "id": 8,
-      "title": "One Hundred Years of Solitude",
-      "author": "Gabriel García Márquez",
-      "publication_date": "1967-06-08",
-      "description": "A novel about seven generations of a Colombian family and their magical realist experiences.",
-      "image":"https://cdn.shopify.com/s/files/1/0568/8000/5328/products/945bee42-8975-441f-aab0-98b647596ea7_large.png?v=1646356394"
-    },
-    {
-      "id": 9,
-      "title": "The Diary of a Young Girl",
-      "author": "Anne Frank",
-      "publication_date": "1947-06-25",
-      "description": "A non-fiction diary about a Jewish girl hiding from the Nazis in Amsterdam during World War II.",
-      "image":"https://books.google.co.ke/books/publisher/content?id=OqMvDAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U0xcuRFm0r23M_XBuWqFJnKLN4yaQ&w=1280"
-    }
-  ]
-}
+"id": 1,
+"name": "Shelton Jaskolski",
+"age": "13",
+"color": "plum",
+"gender": "Female",
+"image": "https://loremflickr.com/300/300/child",
+},
+{
+"id": 2,
+"name": "Mr. Nichelle Gleichner",
+"age": "4",
+"color": "orchid",
+"gender": "Male",
+"image": "https://loremflickr.com/300/300/child",
 
-      
+},
+{
+"id": 3,
+"name": "Tristan McDermott",
+"age": "1",
+"color": "sky",
+"gender": "Male",
+"image": "https://loremflickr.com/300/300/child",
+},
+{
+"id": 4,
+"name": "Eddie Hintz",
+"age": "4",
+"color": "sky",
+"gender": "Male",
+"image": "https://loremflickr.com/300/300/child",
+
+},
+{
+"id": 5,
+"name": "Karl Olson",
+"age": "6",
+"color": "cyan",
+"gender": "Male",
+"image": "https://loremflickr.com/300/300/child",
+
+},
+{
+"id": 6,
+"name": "Thanh Quigley",
+"age": "1",
+"color": "chocolate",
+"gender": "Male",
+"image": "https://loremflickr.com/300/300/child",
+
+},
+{
+"id": 7,
+"name": "Lowell Greenfelder",
+"age": "1",
+"color": "orange",
+"gender": "Female",
+"image": "https://loremflickr.com/300/300/child",
+
+},
+{
+"id": 8,
+"name": "The Hon. Charlette Jenkins",
+"age": "12",
+"color": "teal",
+"gender": "Female",
+"image": "https://loremflickr.com/300/300/child",
+}
+}
+]
